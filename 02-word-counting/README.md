@@ -82,13 +82,14 @@ Reflect on your process of word counting and consider the following questions (d
 
 - Name - [Data Source](url)
 - Fiona - [Open Food Facts](https://openfoodfacts.github.io/), [sample query](https://world.openfoodfacts.org/cgi/search.pl?search_terms=chocolate&json=1)
-
+- Ping - [Pokemon API](https://pokeapi.co/)
 ### Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [what is the title of your assignment?](url)
 - Fiona - [Word Counting for 7 Days Meal Plan](https://www.notion.so/Assignment-2-Word-Counting-26d701873e07804fb8b9ee0e9a19f5fe?source=copy_link)
+- Ping - [Word Frequency: Little Red Riding Hood](https://www.notion.so/pinglin36/week-2-269e2a209705807fb85afcbd0892e363?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
